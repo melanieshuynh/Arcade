@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+//CHANGE ME: Animal Crossing New Horizons
+//CHANGE ME: Melanie Huynh
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (player shakes full fruit tree) {
+    //fruit falls from tree;
 } else {
-    //Add event below
+    //nothing falls from tree;
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (player presses 'Y' button) && (player is standing near item) {
+    //player picks up item to store in inventory;
 } else {
-    //Add event below
+    //player picks up no item;
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (player buys an item from store) {
+    //subtract cost of item from bells, add item to inventory, remove item from store;
 } else {
-    //Add event below
+    //no bells are subtracted and item is left in store;
 }
 
 
